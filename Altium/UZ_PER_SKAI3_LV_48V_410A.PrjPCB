@@ -119,23 +119,6 @@ GenerateClassCluster=0
 DocumentUniqueId=TOUXSEWW
 
 [Document5]
-DocumentPath=DigitalCarrierJack.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document6]
 DocumentPath=uz_OutputJob.OutJob
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -164,24 +147,24 @@ Variation3=Designator=R6|UniqueId=\LGUSEKVC\AQNRZGYU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=D. Hufnagel
 
 [Parameter2]
-Name=ProjectNameCustom
-Value=UZ_PER_SKAI3_LV_48V_410A
+Name=AuthorParam
+Value=D. Hufnagel
 
 [Parameter3]
 Name=FinDate
 Value=04/24
 
 [Parameter4]
-Name=AuthorParam
-Value=D. Hufnagel
+Name=ProjectNameCustom
+Value=UZ_PER_SKAI3_LV_48V_410A
 
 [Parameter5]
-Name=Author
-Value=D. Hufnagel
+Name=ProjectRevision
+Value=Rev01
 
 [Configuration1]
 Name=Sources
