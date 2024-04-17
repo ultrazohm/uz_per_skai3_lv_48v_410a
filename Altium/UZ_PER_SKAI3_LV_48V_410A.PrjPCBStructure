@@ -1,4 +1,6 @@
-Record=TopLevelDocument|FileName=Connectors.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Power.SchDoc|SheetNumber= 
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=TopSheet.SchDoc|SheetNumber=1
-Record=NoMainPathDocument|SourceDocument=Connectors.SchDoc|FileName=Transceiver.SchDoc|SheetNumber= 
+Record=TopLevelDocument|FileName=TopSheet.SchDoc|SheetNumber=1
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator= |SchDesignator= |FileName=Receiver.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Receiver.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator= |SchDesignator= |FileName=Temp_V_DC_Measurement.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Temp_V_DC_Measurement.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator= |SchDesignator= |FileName=Power.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Power.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator= |SchDesignator= |FileName=Curr_Volt_Measurement.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Curr_Volt_Measurement.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=TopSheet.SchDoc|Designator= |SchDesignator= |FileName=Connectors.SchDoc|SheetNumber= |SymbolType=Normal|RawFileName=Connectors.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
