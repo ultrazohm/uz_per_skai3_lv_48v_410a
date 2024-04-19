@@ -23,7 +23,7 @@ DefaultPcbPcad=0
 ReorderDocumentsOnCompile=1
 NameNetsHierarchically=0
 PowerPortNamesTakePriority=0
-AutoSheetNumbering=0
+AutoSheetNumbering=1
 AutoCrossReferences=0
 NewIndexingOfSheetSymbols=0
 PushECOToAnnotationFile=1
@@ -215,24 +215,24 @@ Variation3=Designator=R6|UniqueId=\LGUSEKVC\AQNRZGYU|Kind=1|AlternatePart=
 ParamVariationCount=0
 
 [Parameter1]
-Name=Author
-Value=D. Hufnagel
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=D. Hufnagel
+Name=ProjectNameCustom
+Value=UZ_PER_SKAI3_LV_48V_410A
 
 [Parameter3]
 Name=FinDate
 Value=04/24
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_PER_SKAI3_LV_48V_410A
+Name=AuthorParam
+Value=D. Hufnagel
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=D. Hufnagel
 
 [Configuration1]
 Name=Sources
