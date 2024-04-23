@@ -282,24 +282,24 @@ ParamDesignator16=R41
 ParamVariationCount=16
 
 [Parameter1]
-Name=Author
-Value=D. Hufnagel
+Name=ProjectRevision
+Value=Rev01
 
 [Parameter2]
-Name=AuthorParam
-Value=D. Hufnagel
+Name=ProjectNameCustom
+Value=UZ_PER_SKAI3_LV_48V_410A
 
 [Parameter3]
 Name=FinDate
 Value=04/24
 
 [Parameter4]
-Name=ProjectNameCustom
-Value=UZ_PER_SKAI3_LV_48V_410A
+Name=AuthorParam
+Value=D. Hufnagel
 
 [Parameter5]
-Name=ProjectRevision
-Value=Rev01
+Name=Author
+Value=D. Hufnagel
 
 [Configuration1]
 Name=Sources
@@ -1245,8 +1245,8 @@ L4=NNENNNWEENNWNENWN
 L5=NNNNNNNNNNNNNNNNN
 L6=NNENNNNEENNWNENWN
 L7=NNEWNNWEENNWNENWN
-L8=NWEENEENEEENNEENN
-L9=NWEENEEEENEWNEEWW
+L8=NWEENEENWEENNEENN
+L9=NWEENEEWNNEWNEEWW
 L10=NWNNNNNENNEWNNEWN
 L11=NNENNNNEEENWNENWN
 L12=WWWWNWWNWWWNWWWNN
