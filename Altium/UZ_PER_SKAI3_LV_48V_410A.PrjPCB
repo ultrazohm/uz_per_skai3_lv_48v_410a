@@ -226,11 +226,11 @@ Description=Default
 AllowFabrication=0
 ParameterCount=0
 VariationCount=1
-Variation1=Designator=R1|UniqueId=\DXTWQGUH\ONWZCSFG|Kind=1|AlternatePart=
-ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R1
-ParamVariation2=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator2=R1
+Variation1=Designator=R2|UniqueId=\DXTWQGUH\ONWZCSFG|Kind=0|AlternatePart=
+ParamVariation1=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
+ParamDesignator1=R2
+ParamVariation2=ParameterName=Comment|VariantValue==Value
+ParamDesignator2=R2
 ParamVariationCount=2
 
 [ProjectVariant2]
@@ -239,46 +239,46 @@ Description=NoTerminationsFitted
 AllowFabrication=0
 ParameterCount=0
 VariationCount=8
-Variation1=Designator=R42|UniqueId=\ERIUKQWF\DAVGGMUP|Kind=1|AlternatePart=
+Variation1=Designator=R3|UniqueId=\ERIUKQWF\DAVGGMUP|Kind=1|AlternatePart=
 ParamVariation1=ParameterName=Comment|VariantValue==Value
-ParamDesignator1=R42
+ParamDesignator1=R3
 ParamVariation2=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator2=R42
-Variation2=Designator=R40|UniqueId=\ERIUKQWF\TPDXKVIR|Kind=1|AlternatePart=
+ParamDesignator2=R3
+Variation2=Designator=R10|UniqueId=\ERIUKQWF\TPDXKVIR|Kind=1|AlternatePart=
 ParamVariation3=ParameterName=Comment|VariantValue==Value
-ParamDesignator3=R40
+ParamDesignator3=R10
 ParamVariation4=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator4=R40
-Variation3=Designator=R39|UniqueId=\ERIUKQWF\IZMDJNSL|Kind=1|AlternatePart=
+ParamDesignator4=R10
+Variation3=Designator=R9|UniqueId=\ERIUKQWF\IZMDJNSL|Kind=1|AlternatePart=
 ParamVariation5=ParameterName=Comment|VariantValue==Value
-ParamDesignator5=R39
+ParamDesignator5=R9
 ParamVariation6=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator6=R39
-Variation4=Designator=R38|UniqueId=\ERIUKQWF\TAZSGUXR|Kind=1|AlternatePart=
+ParamDesignator6=R9
+Variation4=Designator=R8|UniqueId=\ERIUKQWF\TAZSGUXR|Kind=1|AlternatePart=
 ParamVariation7=ParameterName=Comment|VariantValue==Value
-ParamDesignator7=R38
+ParamDesignator7=R8
 ParamVariation8=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator8=R38
-Variation5=Designator=R37|UniqueId=\ERIUKQWF\EOEADUSY|Kind=1|AlternatePart=
+ParamDesignator8=R8
+Variation5=Designator=R7|UniqueId=\ERIUKQWF\EOEADUSY|Kind=1|AlternatePart=
 ParamVariation9=ParameterName=Comment|VariantValue==Value
-ParamDesignator9=R37
+ParamDesignator9=R7
 ParamVariation10=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator10=R37
-Variation6=Designator=R36|UniqueId=\ERIUKQWF\CULBJCAR|Kind=1|AlternatePart=
+ParamDesignator10=R7
+Variation6=Designator=R6|UniqueId=\ERIUKQWF\CULBJCAR|Kind=1|AlternatePart=
 ParamVariation11=ParameterName=Comment|VariantValue==Value
-ParamDesignator11=R36
+ParamDesignator11=R6
 ParamVariation12=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator12=R36
-Variation7=Designator=R43|UniqueId=\ERIUKQWF\WDPARXXB|Kind=1|AlternatePart=
+ParamDesignator12=R6
+Variation7=Designator=R5|UniqueId=\ERIUKQWF\WDPARXXB|Kind=1|AlternatePart=
 ParamVariation13=ParameterName=Comment|VariantValue==Value
-ParamDesignator13=R43
+ParamDesignator13=R5
 ParamVariation14=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator14=R43
-Variation8=Designator=R41|UniqueId=\ERIUKQWF\HEAVQTOD|Kind=1|AlternatePart=
+ParamDesignator14=R5
+Variation8=Designator=R4|UniqueId=\ERIUKQWF\HEAVQTOD|Kind=1|AlternatePart=
 ParamVariation15=ParameterName=Comment|VariantValue==Value
-ParamDesignator15=R41
+ParamDesignator15=R4
 ParamVariation16=ParameterName=Supplier Part Number 2|VariantValue==LCSC Part Number
-ParamDesignator16=R41
+ParamDesignator16=R4
 ParamVariationCount=16
 
 [GeneratedDocument1]
