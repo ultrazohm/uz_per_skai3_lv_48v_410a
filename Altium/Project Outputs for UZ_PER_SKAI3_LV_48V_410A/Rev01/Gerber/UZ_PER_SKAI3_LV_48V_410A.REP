@@ -25,87 +25,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Bottom Paste
-      File : UZ_PER_SKAI3_LV_48V_410A.GBP
-
-    Adding Layer      : Bottom Paste
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-*************************************************************
-
-*************************************************************
-Generating : Bottom Mask
-      File : UZ_PER_SKAI3_LV_48V_410A.GBS
-
-    Adding Layer      : Bottom Mask
-
-    Adding Layer      : Bottom Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
-Generating : Top Mask
-      File : UZ_PER_SKAI3_LV_48V_410A.GTS
-
-    Adding Layer      : Top Mask
-
-    Adding Layer      : Top Copper
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D38
-    D39
-    D40
-    D41
-    D42
-    D43
-    D44
-    D45
-    D46
-    D47
-    D48
-    D49
-    D50
-    D51
-    D52
-    D53
-    D54
-    D55
-    D56
-    D57
-    D58
-    D59
-    D60
-    D61
-    D62
-    D63
-    D64
-    D65
-*************************************************************
-
-*************************************************************
 Generating : Top Paste
       File : UZ_PER_SKAI3_LV_48V_410A.GTP
 
@@ -198,22 +117,6 @@ Used DCodes :
 *************************************************************
 
 *************************************************************
-Generating : Signal Layer 3
-      File : UZ_PER_SKAI3_LV_48V_410A.G3
-
-    Adding Layer      : Signal Layer 3
-
-    Adding Layer      : Multi-Layer
-
-
-Used DCodes :
-    D69
-    D73
-    D74
-    D76
-*************************************************************
-
-*************************************************************
 Generating : Signal Layer 2
       File : UZ_PER_SKAI3_LV_48V_410A.G2
 
@@ -290,5 +193,102 @@ Used DCodes :
     D76
     D77
     D78
+*************************************************************
+
+*************************************************************
+Generating : Bottom Paste
+      File : UZ_PER_SKAI3_LV_48V_410A.GBP
+
+    Adding Layer      : Bottom Paste
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+*************************************************************
+
+*************************************************************
+Generating : Bottom Mask
+      File : UZ_PER_SKAI3_LV_48V_410A.GBS
+
+    Adding Layer      : Bottom Mask
+
+    Adding Layer      : Bottom Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Top Mask
+      File : UZ_PER_SKAI3_LV_48V_410A.GTS
+
+    Adding Layer      : Top Mask
+
+    Adding Layer      : Top Copper
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D38
+    D39
+    D40
+    D41
+    D42
+    D43
+    D44
+    D45
+    D46
+    D47
+    D48
+    D49
+    D50
+    D51
+    D52
+    D53
+    D54
+    D55
+    D56
+    D57
+    D58
+    D59
+    D60
+    D61
+    D62
+    D63
+    D64
+    D65
+*************************************************************
+
+*************************************************************
+Generating : Signal Layer 3
+      File : UZ_PER_SKAI3_LV_48V_410A.G3
+
+    Adding Layer      : Signal Layer 3
+
+    Adding Layer      : Multi-Layer
+
+
+Used DCodes :
+    D69
+    D73
+    D74
+    D76
 *************************************************************
 

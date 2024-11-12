@@ -1,10 +1,14 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 09:32:13 On 10.06.2024
+
 Output: Pick_Place_JLC
 Type  : Pick Place
-From  : Variant [Differential_Input] of PCB Document [UZ_PER_SKAI3_LV_48V_410A.PcbDoc]
-   Generated File[Pick Place for UZ_PER_SKAI3_LV_48V_410A.csv]
+From  : Variant [NoTerminationsFitted] of PCB Document [UZ_PER_SKAI3_LV_48V_410A.PcbDoc]
+   Generated File[Pick Place for UZ_PER_SKAI3_LV_48V_410A(NoTerminationsFitted).csv]
 
 
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 14:14:06 On 08.05.2024
+Finished Output Generation At 09:32:14 On 10.06.2024
